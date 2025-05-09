@@ -12,7 +12,7 @@ This is a web application for browsing property listings for rent. It allows use
 
 ## Demo
 
-You can view the live version of the RentFlow application at the following URL:  
+You can view the live version of the application at the following URL:  
 [LIVE DEMO](https://rentflow.onrender.com/listings)
 
 ## Technology Stack
