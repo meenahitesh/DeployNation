@@ -1,6 +1,6 @@
-# RentFlow - Real Estate Listings
+# DeployNation - Real Estate Listings
 
-RentFlow is a web application for browsing property listings for rent. It allows users to explore detailed information about available properties, including location, price, and other relevant data. The application features a modern interface with search and filter functionality, making it easy for users to find the perfect property.
+This is a web application for browsing property listings for rent. It allows users to explore detailed information about available properties, including location, price, and other relevant data. The application features a modern interface with search and filter functionality, making it easy for users to find the perfect property.
 
 ## Features
 
@@ -13,7 +13,7 @@ RentFlow is a web application for browsing property listings for rent. It allows
 ## Demo
 
 You can view the live version of the RentFlow application at the following URL:  
-[RentFlow Listings](https://rentflow.onrender.com/listings)
+[LIVE](https://rentflow.onrender.com/listings)
 
 ## Technology Stack
 
